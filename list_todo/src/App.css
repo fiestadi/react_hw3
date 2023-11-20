@@ -1,0 +1,31 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://proxy.olhardigital.com.br/wp-content/uploads/2021/07/Lua.jpg'); 
+  background-size: cover; 
+}
+.background {
+ max-width: 1900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ flex-direction: column;
+  color: azure;
+}
+.content{
+  margin-top: 5em;
+  height: 2em;
+}
+.title{
+  margin-top: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: azure;
+}
